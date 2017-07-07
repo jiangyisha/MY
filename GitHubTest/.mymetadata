@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="GitForTest"
-  id="myeclipse.1499072680685"
-  context-root="/GitForTest"
+  name="GitHubTest"
+  id="myeclipse.1499407898728"
+  context-root="/GitHubTest"
   j2ee-spec="6.0"
-  archive="GitForTest.war">
+  archive="GitHubTest.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
